@@ -7,6 +7,9 @@ Will it work? No.
 
 ## Concept
 
+(NOTE: The following diagrams are the view of the drone from side on,
+so up in the diagram is up in real life.)
+
 The first problem with a one-propeller drone is that the angular
 momentum of the blade when it starts spinning causes the body to begin
 to spin in the opposite direction:
